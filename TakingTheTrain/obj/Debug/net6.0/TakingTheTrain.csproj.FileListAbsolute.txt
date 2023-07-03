@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\bin\Debug\net6.0\TakingTheTrain.exe
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\bin\Debug\net6.0\TakingTheTrain.deps.json
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\bin\Debug\net6.0\TakingTheTrain.runtimeconfig.json
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\bin\Debug\net6.0\TakingTheTrain.dll
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\bin\Debug\net6.0\TakingTheTrain.pdb
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.dll
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\refint\TakingTheTrain.dll
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.pdb
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\TakingTheTrain.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\TakingTheTrain\TakingTheTrain\obj\Debug\net6.0\ref\TakingTheTrain.dll
